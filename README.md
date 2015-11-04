@@ -1,2 +1,2 @@
 # bad-language-filter
-A javascript module for removing bad language from content.
+A javascript module for detecting, removing and replacing bad language from content.
