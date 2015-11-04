@@ -1,0 +1,28 @@
+{
+  "name": "bad-language-filter",
+  "version": "1.0.0",
+  "description": "A javascript module for detecting, removing and replacing bad language from content.",
+  "main": "badwords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudolph2907/bad-language-filter.git"
+  },
+  "keywords": [
+    "swear",
+    "words",
+    "nodejs",
+    "javascript",
+    "bad",
+    "language",
+    "filter"
+  ],
+  "author": "Rudolph Koegelenberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rudolph2907/bad-language-filter/issues"
+  },
+  "homepage": "https://github.com/rudolph2907/bad-language-filter#readme"
+}
