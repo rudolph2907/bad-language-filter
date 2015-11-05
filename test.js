@@ -1,6 +1,6 @@
-var TextFinder = require('./textfinder');
+var BadLanguageFilter = require('./bad-language-filter');
 
-var textfinder = new TextFinder(['no', 'hello', 'ipsum']);
+var textfinder = new BadLanguageFilter();
 console.log('hello mater: ' + textfinder.contains('hello mater'));
 console.log('no thanks: ' + textfinder.contains('no thanks'));
 console.log('hello mater, no thanks: ' + textfinder.contains('hello mater, no thanks'));
@@ -29,6 +29,4 @@ fs.readFile('text.txt', 'utf8', function(err, data) {
     console.log('text remove:' + textfinder.removeWords(data));
     console.log('text replace:' + textfinder.replaceWords(data, 'WHAT'));
 });
-
-
 
