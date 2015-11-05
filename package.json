@@ -1,8 +1,8 @@
 {
   "name": "bad-language-filter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A javascript module for detecting, removing and replacing bad language from content.",
-  "main": "badwords.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
