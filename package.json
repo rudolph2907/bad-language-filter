@@ -1,6 +1,6 @@
 {
   "name": "bad-language-filter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A javascript module for detecting, removing and replacing bad language from content.",
   "main": "badwords.js",
   "scripts": {
