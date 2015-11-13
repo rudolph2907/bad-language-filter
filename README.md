@@ -6,6 +6,7 @@ npm install bad-language-filter --save
 
 ##  Initialize
 var BadLanguageFilter = require('bad-language-filter');
+
 var filter = new BadLanguageFilter();
 
 ## Functions
