@@ -1,5 +1,5 @@
 # bad-language-filter
-A javascript module for detecting, removing and replacing bad language from content.
+A node.js module for detecting, removing and replacing bad language from content.
 
 ##  Install with npm
 npm install bad-language-filter --save
